@@ -1,0 +1,11 @@
+path: /path/to/yolo/dataset # dataset root dir
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Bichon
+  1: Chihuahua
+  2: Maltese
+  3: Pomeranian
+  4: Poodle

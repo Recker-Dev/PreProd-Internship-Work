@@ -1,0 +1,1001 @@
+customer_id,order_id,product_name,order_date,product_price,quantity,order_amount,region,sales_rep
+68,1,Product A,,20,42,840,North America,Jane Smith
+0,2,Product B,4/14/2021,30,81,2430,Australia,Jane Smith
+93,3,Product A,,20,68,1360,North America,Mike Johnson
+43,4,Product C,11/22/2022,40,56,,Europe,Jane Smith
+69,5,Product C,,40,83,3320,Asia,Jane Smith
+15,6,Product C,11/26/2020,40,29,1160,Europe,Mike Johnson
+44,7,Product C,7/17/2020,40,2,80,Asia,Jane Smith
+80,8,Product A,8/4/2021,20,20,400,North America,Mike Johnson
+45,9,Product B,,30,4,120,Australia,Jane Smith
+24,10,Product B,3/23/2021,30,80,2400,North America,Jane Smith
+87,11,Product B,,30,25,750,,Mike Johnson
+64,12,Product A,,20,78,1560,Australia,Jane Smith
+81,13,Product A,3/18/2022,20,65,1300,Europe,Mike Johnson
+91,14,,10/14/2021,,65,,Australia,John Doe
+58,15,Product A,12/27/2020,20,1,20,North America,John Doe
+42,16,Product B,,30,79,2370,Europe,Mike Johnson
+52,17,Product C,10/11/2020,40,70,2800,Australia,Jane Smith
+9,18,Product C,6/22/2020,40,75,3000,North America,Mike Johnson
+80,19,Product C,2/24/2022,40,53,,Europe,Mike Johnson
+35,20,Product B,10/20/2020,30,64,1920,Australia,Jane Smith
+5,21,,5/26/2022,,43,,Europe,Mike Johnson
+12,22,Product C,,40,91,3640,Asia,John Doe
+84,23,Product A,12/28/2020,20,30,600,North America,John Doe
+8,24,Product C,3/18/2022,40,17,680,Asia,Mike Johnson
+63,25,Product C,,40,9,360,,Mike Johnson
+56,26,Product C,,40,69,2760,Australia,John Doe
+40,27,Product A,11/1/2022,20,28,,Europe,John Doe
+56,28,Product A,12/26/2020,20,42,840,,Jane Smith
+64,29,Product C,9/22/2020,40,99,3960,Europe,John Doe
+31,30,Product B,,30,19,570,,Mike Johnson
+37,31,Product A,9/1/2022,20,9,180,,Mike Johnson
+49,32,Product C,2/24/2020,40,45,1800,Asia,Jane Smith
+12,33,Product A,6/9/2020,20,49,980,North America,John Doe
+17,34,Product C,8/12/2021,40,43,1720,Asia,John Doe
+15,35,Product B,,30,99,2970,,John Doe
+80,36,Product A,11/19/2022,20,53,1060,Asia,John Doe
+27,37,Product C,,40,12,480,North America,John Doe
+83,38,Product C,10/5/2021,40,78,3120,Asia,Mike Johnson
+47,39,Product C,,40,66,2640,,Jane Smith
+39,40,Product C,8/22/2020,40,13,520,North America,Jane Smith
+14,41,Product A,8/30/2020,20,13,260,North America,Mike Johnson
+66,42,Product A,,20,55,1100,,Jane Smith
+43,43,,7/17/2022,,87,,Asia,John Doe
+93,44,,6/12/2022,,71,,Europe,Jane Smith
+89,45,Product C,,40,46,1840,North America,John Doe
+89,46,Product C,,40,56,2240,Europe,John Doe
+12,47,Product B,9/30/2020,30,49,1470,Europe,Mike Johnson
+9,48,Product C,5/2/2022,40,20,800,North America,John Doe
+43,49,Product C,,40,91,3640,Asia,John Doe
+97,50,Product B,,30,20,600,,Mike Johnson
+44,51,Product A,5/27/2022,20,28,560,North America,John Doe
+30,52,Product B,,30,24,720,Australia,John Doe
+56,53,Product B,9/15/2020,30,41,1230,North America,Jane Smith
+4,54,Product C,5/11/2020,40,12,480,,John Doe
+65,55,Product A,11/5/2021,20,4,80,Asia,Jane Smith
+46,56,Product C,4/30/2022,40,98,3920,North America,Mike Johnson
+19,57,Product C,,40,51,2040,Europe,Mike Johnson
+68,58,Product B,9/12/2022,30,15,450,Europe,Jane Smith
+12,59,Product A,7/16/2020,20,100,2000,Australia,Jane Smith
+41,60,Product C,12/20/2022,40,39,1560,Asia,Jane Smith
+74,61,Product C,6/7/2021,40,26,,North America,Mike Johnson
+62,62,Product B,7/12/2020,30,94,2820,Australia,Jane Smith
+64,63,Product A,9/7/2021,20,56,1120,Australia,Jane Smith
+22,64,Product A,,20,1,20,Australia,John Doe
+26,65,Product A,,20,6,120,Asia,John Doe
+17,66,Product B,4/12/2020,30,18,540,Europe,Jane Smith
+97,67,Product B,1/1/2020,30,34,1020,Europe,Jane Smith
+1,68,Product B,10/7/2021,30,,,Australia,Jane Smith
+71,69,,12/16/2020,,40,,Europe,Jane Smith
+1,70,,4/20/2022,,28,,North America,Jane Smith
+71,71,Product C,5/3/2022,40,2,80,Asia,Jane Smith
+56,72,Product A,4/11/2021,20,52,1040,Asia,Jane Smith
+6,73,Product B,5/25/2020,30,18,540,Europe,Mike Johnson
+91,74,,5/16/2020,,12,,,John Doe
+54,75,Product C,4/10/2021,40,18,720,Australia,Mike Johnson
+87,76,Product B,10/8/2022,30,13,390,Europe,Jane Smith
+74,77,Product C,12/7/2022,40,14,560,Europe,Mike Johnson
+71,78,Product A,6/26/2020,20,25,500,Asia,Mike Johnson
+81,79,Product B,5/10/2021,30,17,510,Asia,Mike Johnson
+13,80,Product B,12/14/2020,30,7,210,Australia,John Doe
+5,81,Product B,7/21/2021,30,64,,,Jane Smith
+18,82,Product B,,30,19,570,Asia,Mike Johnson
+14,83,Product A,2/3/2020,20,65,1300,North America,Mike Johnson
+82,84,Product C,7/20/2022,40,77,3080,Asia,John Doe
+52,85,Product C,,40,76,3040,North America,
+70,86,Product A,8/28/2021,20,90,1800,,Mike Johnson
+71,87,Product A,,20,59,1180,,
+51,88,Product B,12/2/2021,30,19,570,North America,John Doe
+35,89,Product A,4/18/2021,20,18,360,Australia,John Doe
+74,90,Product B,4/26/2020,30,53,1590,,Jane Smith
+95,91,Product B,,30,68,2040,North America,Mike Johnson
+55,92,Product B,2/24/2020,30,49,1470,Australia,Jane Smith
+61,93,Product A,12/29/2021,20,59,1180,Asia,John Doe
+76,94,Product B,8/16/2022,30,31,930,North America,Mike Johnson
+96,95,Product B,10/8/2022,30,1,30,Australia,John Doe
+98,96,Product B,11/15/2021,30,80,2400,Australia,Jane Smith
+64,97,Product A,1/6/2021,20,8,160,Europe,Mike Johnson
+36,98,Product C,,40,24,960,Australia,Jane Smith
+95,99,Product A,5/7/2020,20,72,1440,North America,Mike Johnson
+9,100,Product C,,40,67,2680,Australia,Jane Smith
+52,101,Product C,6/29/2021,40,14,560,Asia,Jane Smith
+5,102,Product A,,20,19,380,Europe,Jane Smith
+71,103,Product B,,30,68,2040,North America,John Doe
+95,104,Product C,,40,13,520,Australia,Jane Smith
+25,105,Product A,1/24/2022,20,57,1140,North America,Mike Johnson
+56,106,Product B,5/9/2021,30,32,960,Europe,Mike Johnson
+73,107,Product B,,30,25,750,Europe,Jane Smith
+31,108,Product A,,20,78,1560,North America,Mike Johnson
+18,109,Product C,,40,29,1160,Europe,Jane Smith
+16,110,Product C,3/14/2022,40,72,2880,North America,John Doe
+68,111,Product A,3/31/2020,20,100,2000,Europe,John Doe
+41,112,Product B,9/27/2020,30,63,1890,Australia,John Doe
+10,113,,,,89,,Europe,Jane Smith
+40,114,Product A,1/27/2020,20,82,1640,North America,Mike Johnson
+95,115,Product A,,20,33,660,North America,Mike Johnson
+32,116,Product B,3/21/2021,30,82,2460,Europe,John Doe
+81,117,Product A,,20,13,260,Australia,Mike Johnson
+9,118,Product B,7/28/2020,30,98,2940,,John Doe
+39,119,Product C,,40,27,1080,Asia,Jane Smith
+46,120,,6/5/2021,,48,,North America,Mike Johnson
+87,121,Product C,4/10/2022,40,5,,Australia,John Doe
+23,122,Product B,2/27/2021,30,3,90,Australia,Mike Johnson
+88,123,,3/31/2021,,75,,Europe,Jane Smith
+53,124,Product C,,40,52,2080,Europe,John Doe
+2,125,Product B,,30,46,1380,North America,Jane Smith
+29,126,Product C,,40,47,1880,Australia,Mike Johnson
+73,127,Product C,11/10/2020,40,57,2280,Asia,John Doe
+80,128,Product A,,20,23,460,Australia,Mike Johnson
+73,129,Product A,11/24/2020,20,,,Europe,Jane Smith
+63,130,Product B,4/5/2022,30,69,2070,Australia,John Doe
+86,131,Product C,,40,27,1080,Europe,John Doe
+46,132,Product B,12/16/2020,30,81,2430,Asia,Mike Johnson
+48,133,,4/12/2021,,72,,Asia,Mike Johnson
+27,134,,12/26/2020,,80,,Australia,Mike Johnson
+38,135,Product B,7/28/2022,30,68,2040,Asia,Jane Smith
+74,136,Product B,2/28/2022,30,76,2280,Europe,Mike Johnson
+47,137,Product B,2/13/2021,30,55,1650,Australia,Mike Johnson
+69,138,Product B,3/29/2021,30,44,1320,North America,John Doe
+10,139,Product A,6/24/2021,20,79,1580,Australia,Mike Johnson
+23,140,Product B,10/1/2020,30,18,540,Australia,John Doe
+39,141,Product C,,40,93,3720,,Mike Johnson
+93,142,Product A,4/29/2022,20,21,420,Australia,Mike Johnson
+80,143,Product A,10/26/2022,20,28,560,Asia,Jane Smith
+20,144,Product C,,40,20,,North America,John Doe
+83,145,Product A,8/9/2021,20,7,140,North America,Jane Smith
+2,146,Product C,,40,95,3800,Australia,Mike Johnson
+94,147,Product A,,20,54,1080,Europe,John Doe
+97,148,Product A,4/14/2021,20,68,1360,Europe,Mike Johnson
+59,149,Product B,4/13/2021,30,11,330,,Jane Smith
+38,150,Product B,10/22/2020,30,3,90,Australia,John Doe
+35,151,Product B,7/27/2022,30,85,2550,,Jane Smith
+72,152,Product A,,20,,,North America,John Doe
+64,153,Product A,6/30/2022,20,49,980,North America,Mike Johnson
+84,154,Product C,8/21/2020,40,31,1240,Asia,
+54,155,,5/19/2020,,66,,Australia,John Doe
+48,156,Product C,10/19/2022,40,89,3560,Europe,Mike Johnson
+7,157,,,,66,,Australia,John Doe
+69,158,Product A,4/2/2021,20,,,Asia,Jane Smith
+77,159,Product A,,20,45,,North America,John Doe
+82,160,Product C,,40,80,3200,Asia,Mike Johnson
+91,161,Product C,2/19/2020,40,18,720,North America,John Doe
+65,162,Product A,,20,84,1680,,John Doe
+22,163,Product B,2/27/2022,30,18,540,Australia,Jane Smith
+53,164,Product A,7/26/2021,20,90,1800,North America,Jane Smith
+92,165,Product C,1/23/2022,40,12,,Australia,John Doe
+77,166,Product B,11/14/2021,30,27,810,Europe,Mike Johnson
+57,167,Product B,2/15/2022,30,16,480,North America,John Doe
+28,168,Product B,2/19/2022,30,3,90,Asia,John Doe
+21,169,Product C,5/19/2021,40,33,1320,,Jane Smith
+89,170,Product A,5/10/2020,20,79,1580,Australia,John Doe
+76,171,,,,42,,North America,John Doe
+60,172,Product A,12/28/2020,20,93,1860,North America,Mike Johnson
+85,173,Product A,11/18/2022,20,67,1340,Asia,John Doe
+34,174,,,,92,,Europe,John Doe
+70,175,Product C,1/20/2021,40,1,40,North America,Mike Johnson
+66,176,Product B,7/19/2022,30,89,2670,Australia,Mike Johnson
+1,177,,10/8/2021,,77,,North America,Mike Johnson
+42,178,Product B,,30,99,2970,Asia,Jane Smith
+30,179,,12/11/2021,,100,,Asia,
+74,180,Product A,5/14/2020,20,11,220,Asia,Jane Smith
+59,181,,7/14/2020,,52,,North America,John Doe
+77,182,Product A,11/7/2021,20,98,1960,,John Doe
+54,183,Product C,12/10/2021,40,52,2080,Europe,Jane Smith
+38,184,Product A,,20,14,,Europe,John Doe
+3,185,Product C,5/24/2020,40,26,1040,Asia,John Doe
+27,186,Product C,,40,21,840,Europe,Jane Smith
+64,187,Product A,10/17/2022,20,59,1180,Asia,John Doe
+42,188,Product B,,30,84,2520,Europe,Jane Smith
+72,189,Product C,6/3/2022,40,49,1960,Europe,Mike Johnson
+83,190,Product B,,30,47,,North America,John Doe
+65,191,Product A,9/28/2021,20,73,1460,Europe,Mike Johnson
+24,192,Product C,8/26/2021,40,57,2280,North America,John Doe
+44,193,,11/16/2022,,15,,Asia,Mike Johnson
+90,194,Product B,,30,21,630,Asia,Mike Johnson
+23,195,Product B,3/28/2020,30,45,1350,Australia,John Doe
+75,196,Product A,5/27/2021,20,,,North America,Mike Johnson
+93,197,Product A,7/17/2020,20,61,1220,Asia,Jane Smith
+78,198,Product B,9/1/2020,30,85,2550,Australia,Mike Johnson
+63,199,Product A,,20,2,40,Europe,John Doe
+17,200,Product C,,40,69,2760,Australia,Mike Johnson
+72,201,Product A,7/6/2021,20,73,1460,Asia,Mike Johnson
+42,202,,,,9,,Australia,Mike Johnson
+96,203,Product A,,20,62,1240,,John Doe
+15,204,Product C,5/12/2021,40,3,120,,Jane Smith
+51,205,Product A,5/17/2020,20,36,720,Asia,Jane Smith
+14,206,Product C,10/5/2021,40,95,3800,North America,Jane Smith
+76,207,Product B,1/18/2021,30,29,870,Asia,Jane Smith
+94,208,Product B,,30,33,990,Australia,Mike Johnson
+83,209,Product A,,20,41,820,Asia,Jane Smith
+57,210,Product C,4/19/2021,40,59,2360,Europe,Mike Johnson
+79,211,Product A,1/3/2021,20,98,1960,North America,John Doe
+79,212,Product C,,40,44,1760,North America,John Doe
+43,213,Product B,,30,91,2730,Asia,John Doe
+90,214,Product B,1/13/2021,30,87,2610,Asia,Jane Smith
+27,215,Product A,4/24/2020,20,79,1580,Asia,Mike Johnson
+97,216,Product A,5/6/2021,20,20,400,Australia,John Doe
+81,217,Product A,4/29/2021,20,49,980,North America,Jane Smith
+54,218,Product B,9/7/2020,30,2,60,Australia,Jane Smith
+41,219,Product C,10/27/2022,40,96,3840,,Jane Smith
+35,220,Product C,2/4/2020,40,22,880,,Jane Smith
+85,221,Product A,9/21/2021,20,70,1400,Australia,Mike Johnson
+58,222,Product B,10/18/2022,30,51,1530,,Jane Smith
+8,223,Product C,,40,95,3800,Australia,Mike Johnson
+92,224,Product C,,40,31,1240,North America,Jane Smith
+28,225,Product A,2/19/2020,20,28,560,Europe,Mike Johnson
+55,226,Product A,4/5/2022,20,58,1160,Europe,Jane Smith
+94,227,Product A,,20,72,1440,Europe,Mike Johnson
+51,228,Product C,3/8/2021,40,18,720,,Mike Johnson
+47,229,Product C,,40,24,960,,Jane Smith
+74,230,,11/27/2022,,27,,Europe,Mike Johnson
+48,231,Product C,4/18/2020,40,7,280,Asia,Jane Smith
+80,232,,4/12/2022,,24,,Asia,Mike Johnson
+90,233,Product C,12/1/2022,40,36,1440,Australia,Jane Smith
+87,234,Product B,10/10/2021,30,92,2760,Asia,Jane Smith
+6,235,Product C,7/16/2022,40,49,1960,Australia,John Doe
+72,236,Product C,12/21/2020,40,51,2040,,
+59,237,Product A,,20,32,640,,Jane Smith
+82,238,Product A,8/31/2021,20,34,680,Australia,Jane Smith
+38,239,Product B,2/24/2021,30,37,1110,Australia,John Doe
+30,240,Product A,11/28/2022,20,44,880,North America,Mike Johnson
+73,241,Product B,,30,66,1980,North America,John Doe
+83,242,Product B,5/11/2020,30,80,2400,Europe,John Doe
+79,243,Product A,12/20/2020,20,64,1280,Asia,Jane Smith
+9,244,Product A,,20,85,1700,North America,Jane Smith
+35,245,Product B,2/13/2022,30,46,1380,North America,Mike Johnson
+87,246,Product B,,30,84,2520,Europe,Jane Smith
+86,247,Product B,5/26/2022,30,87,2610,North America,John Doe
+8,248,Product B,,30,10,300,Asia,Mike Johnson
+83,249,Product C,4/4/2022,40,60,2400,Europe,John Doe
+39,250,Product C,3/30/2021,40,21,840,Europe,Jane Smith
+14,251,Product B,9/14/2021,30,54,,Europe,Mike Johnson
+12,252,,,,100,,North America,John Doe
+87,253,Product A,10/10/2022,20,18,360,,Mike Johnson
+87,254,Product B,2/1/2022,30,36,,,John Doe
+41,255,Product C,,40,88,3520,Europe,Mike Johnson
+63,256,Product C,12/3/2022,40,57,2280,Europe,Jane Smith
+96,257,Product A,,20,82,1640,Asia,Mike Johnson
+64,258,Product A,7/9/2022,20,78,1560,North America,John Doe
+31,259,Product B,,30,26,780,Europe,Mike Johnson
+3,260,Product B,,30,100,3000,Asia,Mike Johnson
+75,261,Product A,,20,95,1900,North America,Jane Smith
+92,262,Product C,12/3/2022,40,62,2480,,Mike Johnson
+87,263,Product A,4/4/2020,20,60,1200,Australia,Mike Johnson
+72,264,Product A,9/20/2020,20,42,840,North America,Jane Smith
+9,265,Product A,4/4/2021,20,91,1820,Asia,Jane Smith
+66,266,Product B,,30,18,540,Asia,John Doe
+98,267,Product A,2/3/2022,20,51,1020,Australia,Mike Johnson
+91,268,Product B,7/7/2022,30,83,,Europe,Mike Johnson
+93,269,Product C,,40,34,1360,Europe,Jane Smith
+55,270,Product A,,20,10,200,North America,John Doe
+40,271,Product B,,30,82,2460,,Mike Johnson
+76,272,Product C,7/22/2021,40,99,3960,,John Doe
+64,273,Product C,1/11/2020,40,34,1360,Europe,Mike Johnson
+30,274,Product B,1/14/2022,30,87,2610,Europe,John Doe
+60,275,Product A,11/14/2022,20,52,1040,North America,Mike Johnson
+48,276,Product A,12/24/2022,20,22,440,Asia,Jane Smith
+1,277,Product B,6/15/2020,30,28,840,Europe,Mike Johnson
+65,278,Product B,2/11/2021,30,13,390,Asia,Mike Johnson
+91,279,Product B,6/6/2020,30,12,360,Europe,Mike Johnson
+28,280,Product A,,20,48,960,North America,Jane Smith
+48,281,Product C,,40,74,2960,Australia,Mike Johnson
+23,282,Product B,,30,93,2790,Europe,Mike Johnson
+23,283,Product C,2/18/2020,40,11,440,Asia,Jane Smith
+66,284,Product C,11/23/2022,40,23,920,Australia,Mike Johnson
+99,285,Product C,11/15/2021,40,32,1280,North America,John Doe
+54,286,Product C,,40,73,2920,Australia,Mike Johnson
+60,287,Product B,,30,28,840,North America,Mike Johnson
+68,288,Product A,,20,98,1960,Europe,Mike Johnson
+79,289,Product C,3/19/2020,40,57,2280,Asia,Jane Smith
+6,290,Product A,,20,17,340,,John Doe
+81,291,,6/1/2021,,42,,Australia,Jane Smith
+38,292,Product C,6/25/2021,40,61,2440,Europe,Jane Smith
+64,293,Product A,8/18/2021,20,89,1780,North America,John Doe
+75,294,Product C,2/12/2022,40,67,2680,North America,Mike Johnson
+27,295,Product B,4/25/2021,30,32,960,Europe,Mike Johnson
+29,296,Product B,6/10/2020,30,51,1530,North America,Mike Johnson
+62,297,,9/27/2021,,34,,,Mike Johnson
+41,298,Product B,,30,85,2550,,Jane Smith
+14,299,Product B,8/8/2021,30,78,2340,North America,Mike Johnson
+65,300,Product C,12/18/2020,40,88,3520,Asia,Mike Johnson
+95,301,Product B,12/9/2021,30,63,1890,Asia,John Doe
+33,302,Product B,,30,47,1410,Australia,Jane Smith
+49,303,Product A,2/2/2020,20,24,480,Europe,Jane Smith
+76,304,Product A,10/5/2020,20,36,720,Australia,Mike Johnson
+3,305,Product B,6/3/2020,30,46,1380,Europe,
+6,306,Product B,,30,27,810,,John Doe
+55,307,Product B,4/13/2020,30,11,330,North America,John Doe
+41,308,Product A,9/3/2020,20,18,360,North America,Jane Smith
+36,309,,1/14/2021,,24,,North America,John Doe
+91,310,Product B,2/27/2022,30,28,840,Australia,Mike Johnson
+65,311,Product A,8/22/2020,20,,,North America,John Doe
+42,312,Product C,3/6/2022,40,57,2280,Asia,Jane Smith
+23,313,Product B,3/29/2021,30,38,1140,,Jane Smith
+33,314,Product C,6/16/2021,40,20,800,Asia,Jane Smith
+43,315,Product B,11/14/2020,30,11,330,North America,John Doe
+0,316,Product B,,30,63,1890,Europe,John Doe
+45,317,Product B,9/24/2022,30,15,450,Asia,John Doe
+90,318,Product A,1/7/2021,20,33,660,North America,John Doe
+55,319,Product A,9/4/2022,20,1,20,Australia,Mike Johnson
+36,320,Product C,4/21/2020,40,34,1360,,
+48,321,Product B,3/22/2020,30,43,1290,Australia,John Doe
+18,322,Product C,1/4/2021,40,82,3280,Europe,Mike Johnson
+33,323,Product C,12/14/2022,40,60,2400,North America,Mike Johnson
+33,324,Product B,12/31/2020,30,76,2280,North America,John Doe
+95,325,Product A,6/8/2021,20,40,800,Australia,Mike Johnson
+39,326,Product C,12/2/2021,40,98,3920,North America,Jane Smith
+43,327,Product C,6/21/2022,40,6,240,,John Doe
+40,328,Product A,11/8/2022,20,88,1760,North America,Mike Johnson
+87,329,,1/15/2022,,87,,,Mike Johnson
+89,330,Product C,5/30/2020,40,19,760,North America,Jane Smith
+80,331,Product C,4/27/2020,40,93,3720,Australia,Mike Johnson
+27,332,Product C,,40,56,2240,North America,John Doe
+69,333,Product B,2/17/2020,30,72,2160,Australia,John Doe
+2,334,Product A,,20,10,200,Asia,Jane Smith
+58,335,Product A,,20,36,,,John Doe
+23,336,Product C,8/14/2022,40,61,2440,Europe,Jane Smith
+45,337,Product C,5/7/2022,40,60,2400,Asia,John Doe
+20,338,Product B,3/5/2020,30,19,570,Australia,Mike Johnson
+36,339,Product A,,20,76,1520,North America,John Doe
+100,340,,,,42,,Europe,Mike Johnson
+54,341,Product B,8/6/2020,30,20,600,North America,Jane Smith
+43,342,Product B,,30,74,2220,North America,John Doe
+74,343,Product C,5/6/2021,40,61,2440,Asia,Mike Johnson
+45,344,Product C,2/16/2020,40,63,2520,Europe,John Doe
+4,345,Product B,,30,62,1860,North America,Jane Smith
+6,346,Product A,,20,28,560,North America,Jane Smith
+68,347,Product A,10/28/2020,20,13,260,,John Doe
+32,348,Product C,8/29/2020,40,5,200,North America,Mike Johnson
+17,349,Product B,2/27/2020,30,72,2160,Europe,Mike Johnson
+79,350,Product A,,20,53,1060,,Jane Smith
+28,351,Product C,4/30/2022,40,67,2680,Europe,John Doe
+77,352,,,,2,,Europe,John Doe
+15,353,Product B,10/21/2022,30,65,1950,Australia,Jane Smith
+90,354,Product C,1/7/2021,40,54,2160,Asia,John Doe
+55,355,Product A,,20,29,580,Australia,Mike Johnson
+39,356,Product A,,20,67,1340,,John Doe
+89,357,Product C,1/16/2022,40,58,2320,North America,John Doe
+39,358,Product B,1/2/2020,30,94,2820,North America,Mike Johnson
+41,359,Product B,,30,22,660,North America,John Doe
+26,360,,11/26/2021,,61,,Asia,John Doe
+41,361,Product C,,40,82,3280,Asia,Jane Smith
+41,362,Product C,4/18/2020,40,67,2680,Asia,Jane Smith
+47,363,Product B,1/31/2020,30,81,2430,Asia,Jane Smith
+30,364,Product A,5/21/2021,20,35,700,Australia,Mike Johnson
+46,365,Product A,12/24/2021,20,18,360,Australia,Jane Smith
+91,366,Product A,11/14/2021,20,7,140,Asia,Mike Johnson
+34,367,Product C,4/16/2021,40,49,1960,Asia,John Doe
+54,368,Product A,4/29/2020,20,92,1840,Europe,John Doe
+71,369,Product C,,40,100,,Asia,Jane Smith
+4,370,Product C,5/6/2022,40,90,3600,Australia,Jane Smith
+85,371,Product B,,30,79,2370,North America,Jane Smith
+23,372,Product B,6/29/2021,30,85,,Asia,Jane Smith
+44,373,Product C,,40,18,720,North America,Mike Johnson
+51,374,Product A,3/27/2022,20,15,300,North America,John Doe
+94,375,Product B,12/17/2022,30,71,2130,Europe,Mike Johnson
+41,376,Product C,10/26/2022,40,77,3080,Asia,Mike Johnson
+6,377,Product C,,40,100,4000,Australia,Jane Smith
+100,378,Product B,6/17/2020,30,16,480,Europe,John Doe
+92,379,Product A,8/24/2022,20,21,420,Europe,Mike Johnson
+24,380,Product B,,30,9,270,Australia,Jane Smith
+13,381,Product A,,20,24,480,Australia,Jane Smith
+29,382,Product C,10/21/2022,40,,,Australia,Jane Smith
+76,383,Product B,9/8/2020,30,97,2910,Europe,Mike Johnson
+3,384,Product B,6/2/2020,30,53,1590,Europe,Jane Smith
+83,385,Product C,2/22/2021,40,19,760,North America,Mike Johnson
+54,386,Product B,,30,1,,Europe,Jane Smith
+6,387,Product B,,30,99,2970,Australia,Mike Johnson
+79,388,Product C,,40,1,40,Asia,Jane Smith
+73,389,Product C,5/8/2020,40,40,1600,Europe,Mike Johnson
+99,390,,8/18/2020,,82,,North America,Mike Johnson
+10,391,Product B,7/2/2022,30,57,1710,North America,Mike Johnson
+28,392,,4/21/2022,,77,,Europe,Jane Smith
+85,393,Product C,2/8/2022,40,95,3800,Europe,Mike Johnson
+90,394,Product A,5/25/2022,20,25,500,,Mike Johnson
+69,395,Product C,3/5/2021,40,79,,Australia,Mike Johnson
+62,396,Product B,8/28/2022,30,1,30,Australia,John Doe
+69,397,Product C,,40,10,400,North America,Jane Smith
+17,398,Product B,,30,4,120,Europe,Jane Smith
+53,399,Product B,11/15/2020,30,31,930,Australia,John Doe
+41,400,Product B,,30,57,1710,,Jane Smith
+88,401,Product B,9/29/2021,30,92,2760,North America,Mike Johnson
+3,402,Product B,12/30/2020,30,86,2580,Europe,Jane Smith
+29,403,Product C,4/23/2020,40,20,800,North America,Mike Johnson
+37,404,Product C,,40,69,2760,Europe,Mike Johnson
+21,405,Product B,4/28/2021,30,92,,North America,Mike Johnson
+29,406,Product A,,20,82,1640,Europe,John Doe
+0,407,Product C,7/14/2022,40,4,160,North America,Jane Smith
+23,408,Product A,7/17/2022,20,97,1940,North America,John Doe
+23,409,Product B,,30,28,840,Australia,John Doe
+84,410,Product A,,20,74,1480,North America,John Doe
+63,411,Product C,9/25/2020,40,43,1720,Australia,John Doe
+83,412,Product A,1/31/2022,20,91,1820,North America,
+90,413,Product A,,20,22,440,,Jane Smith
+25,414,Product B,,30,66,1980,Australia,Jane Smith
+25,415,Product A,2/11/2022,20,79,1580,North America,Jane Smith
+91,416,Product A,8/4/2021,20,7,140,Europe,Jane Smith
+6,417,Product A,3/23/2020,20,93,1860,Asia,Mike Johnson
+42,418,Product C,,40,3,120,North America,John Doe
+72,419,,1/31/2020,,84,,North America,Jane Smith
+20,420,Product B,6/15/2020,30,95,2850,Australia,Mike Johnson
+28,421,Product A,3/12/2020,20,25,500,Australia,John Doe
+62,422,Product A,12/6/2022,20,62,1240,Asia,John Doe
+85,423,Product C,6/4/2020,40,24,960,Australia,John Doe
+75,424,Product A,2/9/2020,20,,,Europe,Mike Johnson
+63,425,,11/24/2021,,21,,Europe,John Doe
+32,426,Product A,,20,49,980,Europe,Jane Smith
+53,427,Product A,,20,67,1340,Asia,Mike Johnson
+80,428,Product B,6/26/2021,30,76,2280,Asia,John Doe
+24,429,Product C,4/27/2021,40,20,800,Australia,Jane Smith
+95,430,Product C,,40,26,1040,,John Doe
+93,431,Product B,5/31/2022,30,55,1650,Europe,Mike Johnson
+35,432,Product A,,20,50,1000,Australia,John Doe
+93,433,Product A,5/5/2020,20,49,980,Asia,John Doe
+42,434,Product A,,20,98,1960,Europe,Jane Smith
+20,435,Product A,,20,99,1980,North America,Mike Johnson
+27,436,Product B,4/30/2021,30,63,1890,North America,John Doe
+43,437,Product C,8/6/2020,40,96,3840,Asia,
+20,438,Product B,1/3/2021,30,60,1800,Europe,Mike Johnson
+79,439,Product C,1/6/2022,40,90,3600,Europe,John Doe
+68,440,Product B,7/20/2021,30,85,2550,,Jane Smith
+62,441,Product C,10/30/2021,40,94,,Asia,Jane Smith
+73,442,Product C,2/19/2021,40,74,2960,Europe,Mike Johnson
+83,443,Product C,4/19/2020,40,71,2840,Australia,Mike Johnson
+95,444,Product C,12/14/2022,40,12,480,North America,John Doe
+65,445,Product C,4/17/2021,40,11,440,Australia,Jane Smith
+27,446,Product C,4/13/2021,40,98,3920,North America,Jane Smith
+91,447,Product C,2/14/2022,40,31,1240,Asia,Jane Smith
+55,448,Product B,12/27/2020,30,34,1020,Asia,Jane Smith
+66,449,Product C,,40,1,40,Europe,John Doe
+2,450,Product A,,20,11,220,Australia,John Doe
+17,451,Product C,,40,89,3560,,John Doe
+77,452,Product C,9/22/2020,40,34,1360,Europe,Mike Johnson
+23,453,Product A,3/15/2022,20,99,1980,North America,Jane Smith
+0,454,Product B,12/2/2021,30,38,1140,Australia,Jane Smith
+79,455,Product A,7/27/2022,20,6,120,Asia,John Doe
+54,456,Product B,10/14/2022,30,79,2370,Asia,Mike Johnson
+58,457,Product C,1/4/2022,40,91,3640,Europe,Mike Johnson
+49,458,Product C,7/7/2020,40,62,2480,Asia,Jane Smith
+49,459,Product A,5/14/2021,20,66,1320,,Mike Johnson
+89,460,Product C,6/18/2021,40,62,2480,Asia,Jane Smith
+89,461,Product B,9/5/2021,30,74,2220,Asia,Jane Smith
+84,462,Product A,,20,45,900,Australia,Mike Johnson
+83,463,Product C,,40,72,2880,Europe,John Doe
+39,464,Product A,5/1/2022,20,76,1520,Australia,Jane Smith
+34,465,Product B,6/8/2020,30,42,1260,Europe,John Doe
+83,466,Product A,,20,20,400,Europe,
+58,467,Product B,10/13/2022,30,9,270,Asia,Jane Smith
+15,468,Product B,8/15/2020,30,9,270,North America,Mike Johnson
+63,469,Product A,,20,13,260,Asia,Jane Smith
+9,470,Product B,,30,45,1350,,John Doe
+32,471,Product C,10/11/2020,40,92,3680,Asia,Mike Johnson
+99,472,Product B,2/22/2022,30,3,90,,Mike Johnson
+54,473,Product C,,40,58,2320,,Jane Smith
+19,474,Product A,8/29/2021,20,66,1320,North America,Jane Smith
+59,475,Product C,7/7/2020,40,85,3400,,John Doe
+84,476,Product A,12/3/2020,20,14,280,Asia,Mike Johnson
+1,477,Product B,4/5/2021,30,93,2790,Asia,Jane Smith
+37,478,Product B,,30,71,2130,Australia,Mike Johnson
+94,479,Product C,,40,66,2640,,Jane Smith
+53,480,Product B,12/22/2020,30,61,1830,Asia,Jane Smith
+73,481,Product B,3/13/2022,30,58,1740,Europe,Jane Smith
+51,482,Product A,,20,79,1580,,John Doe
+37,483,Product B,3/15/2021,30,9,270,North America,Jane Smith
+16,484,,9/19/2021,,50,,,Mike Johnson
+67,485,Product A,,20,40,800,North America,John Doe
+85,486,Product C,,40,2,80,Europe,Jane Smith
+56,487,Product C,4/30/2021,40,35,1400,Europe,Mike Johnson
+6,488,Product C,5/11/2022,40,14,560,Australia,
+86,489,Product A,5/30/2021,20,45,900,Australia,John Doe
+75,490,Product B,11/21/2020,30,57,1710,North America,Jane Smith
+8,491,Product C,,40,72,2880,North America,Mike Johnson
+62,492,Product A,5/18/2021,20,91,1820,Europe,John Doe
+18,493,Product B,,30,49,1470,Australia,Jane Smith
+17,494,Product A,,20,44,880,,Mike Johnson
+18,495,Product C,4/16/2021,40,78,3120,North America,John Doe
+64,496,Product A,3/14/2021,20,39,780,Asia,Jane Smith
+20,497,Product A,4/23/2020,20,47,940,,Mike Johnson
+77,498,Product A,8/4/2020,20,51,1020,Asia,John Doe
+38,499,Product B,2/5/2021,30,36,1080,Europe,John Doe
+47,500,,,,94,,,
+81,501,Product A,10/11/2020,20,88,1760,Europe,John Doe
+90,502,Product C,11/15/2020,40,100,4000,Europe,John Doe
+2,503,Product B,8/14/2022,30,51,1530,,Mike Johnson
+49,504,Product A,10/26/2020,20,58,1160,Asia,Jane Smith
+14,505,Product C,6/4/2021,40,3,120,Europe,Jane Smith
+42,506,Product C,5/11/2020,40,47,1880,North America,Jane Smith
+17,507,Product A,11/11/2020,20,15,300,North America,John Doe
+99,508,Product A,9/20/2020,20,52,1040,Europe,Jane Smith
+33,509,Product B,12/17/2020,30,52,1560,Europe,John Doe
+68,510,Product C,4/18/2021,40,65,2600,Europe,Jane Smith
+97,511,Product B,3/17/2021,30,3,90,Australia,Jane Smith
+62,512,Product B,9/6/2022,30,70,2100,Europe,John Doe
+100,513,,12/26/2021,,78,,Asia,Mike Johnson
+86,514,Product C,7/29/2020,40,6,240,Australia,Mike Johnson
+48,515,Product A,,20,28,560,North America,John Doe
+26,516,Product B,,30,100,3000,North America,Jane Smith
+83,517,Product A,12/19/2021,20,55,1100,Asia,Jane Smith
+72,518,Product C,10/30/2020,40,65,2600,Europe,Mike Johnson
+43,519,Product A,,20,73,1460,Europe,Mike Johnson
+71,520,Product B,5/16/2020,30,99,2970,Europe,Jane Smith
+54,521,Product C,5/28/2021,40,57,2280,Asia,Mike Johnson
+91,522,Product B,,30,51,1530,Europe,Mike Johnson
+41,523,Product B,11/19/2021,30,70,2100,North America,Jane Smith
+32,524,Product A,8/25/2020,20,57,1140,Europe,John Doe
+43,525,Product B,6/26/2022,30,68,2040,Asia,John Doe
+82,526,,,,38,,Europe,John Doe
+64,527,Product A,1/4/2021,20,46,920,Asia,Mike Johnson
+9,528,Product B,1/25/2020,30,92,2760,North America,Mike Johnson
+86,529,Product B,,30,44,1320,Australia,John Doe
+56,530,Product B,,30,33,990,Europe,John Doe
+46,531,Product B,2/26/2020,30,48,1440,Asia,Jane Smith
+3,532,Product B,,30,16,480,North America,Jane Smith
+28,533,Product A,,20,97,1940,Australia,Mike Johnson
+22,534,Product A,12/7/2021,20,39,780,Europe,Jane Smith
+5,535,,5/16/2021,,11,,Asia,John Doe
+66,536,Product A,12/7/2020,20,5,100,Europe,John Doe
+79,537,Product C,6/20/2020,40,88,3520,Europe,Jane Smith
+36,538,,12/8/2020,,22,,Asia,John Doe
+66,539,Product A,5/21/2022,20,85,1700,Europe,Jane Smith
+48,540,Product A,8/29/2021,20,10,200,Europe,John Doe
+33,541,Product C,,40,65,2600,Asia,John Doe
+63,542,,3/5/2021,,81,,Asia,John Doe
+64,543,,8/31/2022,,11,,Europe,John Doe
+33,544,Product B,,30,13,390,Asia,John Doe
+7,545,Product A,11/2/2022,20,26,520,Europe,Mike Johnson
+27,546,Product C,5/11/2021,40,21,840,Asia,Mike Johnson
+42,547,Product B,,30,14,420,Asia,Mike Johnson
+96,548,Product A,,20,70,1400,North America,John Doe
+83,549,Product B,9/6/2020,30,68,2040,Europe,Mike Johnson
+85,550,Product B,7/13/2021,30,68,2040,North America,Jane Smith
+58,551,Product A,,20,89,,Australia,Mike Johnson
+2,552,Product B,,30,7,210,Europe,John Doe
+16,553,Product B,9/3/2020,30,63,1890,,Jane Smith
+56,554,Product B,,30,71,2130,Asia,Jane Smith
+83,555,Product A,11/23/2021,20,36,720,Asia,Mike Johnson
+99,556,Product C,,40,69,2760,,Mike Johnson
+99,557,Product A,3/20/2022,20,57,1140,Asia,Jane Smith
+71,558,Product C,6/5/2022,40,68,2720,Australia,Jane Smith
+5,559,Product A,12/30/2020,20,65,1300,Europe,John Doe
+47,560,Product A,3/5/2022,20,88,1760,North America,Mike Johnson
+48,561,Product C,4/17/2021,40,57,2280,Europe,John Doe
+96,562,Product B,6/8/2022,30,44,1320,Asia,Jane Smith
+77,563,Product C,6/11/2020,40,91,3640,,Mike Johnson
+74,564,Product B,6/6/2021,30,20,600,Asia,Mike Johnson
+89,565,Product C,1/27/2022,40,92,3680,Europe,John Doe
+5,566,,10/23/2020,,65,,North America,Mike Johnson
+40,567,Product C,,40,90,3600,Europe,Mike Johnson
+36,568,Product C,8/14/2022,40,29,1160,Australia,Jane Smith
+54,569,Product A,10/8/2020,20,72,1440,Australia,Mike Johnson
+30,570,Product B,,30,11,330,North America,John Doe
+33,571,Product C,11/23/2020,40,69,2760,Australia,John Doe
+20,572,,11/1/2020,,64,,,Mike Johnson
+32,573,,8/22/2022,,72,,North America,John Doe
+54,574,Product C,5/22/2021,40,78,3120,Europe,John Doe
+91,575,Product C,,40,90,3600,Asia,Mike Johnson
+81,576,Product C,11/22/2021,40,87,3480,North America,John Doe
+86,577,Product B,11/20/2021,30,35,1050,,John Doe
+45,578,Product B,,30,11,330,Europe,John Doe
+67,579,Product B,12/29/2021,30,80,2400,Australia,Jane Smith
+65,580,Product A,11/28/2020,20,84,1680,North America,Jane Smith
+44,581,Product B,11/22/2021,30,1,30,North America,John Doe
+98,582,Product C,5/8/2022,40,16,640,North America,John Doe
+11,583,Product B,3/1/2022,30,92,2760,,John Doe
+26,584,Product A,12/28/2021,20,8,160,Asia,Jane Smith
+70,585,Product C,11/22/2020,40,14,560,Asia,John Doe
+35,586,Product A,,20,67,1340,North America,John Doe
+63,587,Product C,6/26/2021,40,38,1520,Asia,John Doe
+11,588,Product A,5/3/2021,20,5,100,Asia,Mike Johnson
+5,589,,,,38,,Europe,John Doe
+49,590,Product C,1/4/2020,40,45,1800,,Jane Smith
+64,591,Product C,7/7/2022,40,79,3160,North America,John Doe
+34,592,Product B,8/29/2020,30,89,2670,Australia,Mike Johnson
+27,593,Product B,1/27/2020,30,49,1470,North America,Mike Johnson
+83,594,Product C,,40,57,2280,,John Doe
+73,595,Product C,5/20/2020,40,39,1560,Europe,Jane Smith
+50,596,Product C,12/7/2020,40,64,2560,,John Doe
+55,597,,,,37,,Australia,John Doe
+74,598,Product A,6/1/2022,20,35,700,Europe,Jane Smith
+46,599,Product C,9/5/2021,40,81,3240,Australia,Mike Johnson
+55,600,,8/15/2022,,16,,Asia,Jane Smith
+100,601,Product B,6/5/2021,30,30,900,Australia,John Doe
+18,602,,,,65,,,John Doe
+30,603,Product B,,30,81,2430,North America,Mike Johnson
+45,604,Product B,10/10/2020,30,88,2640,Asia,Mike Johnson
+74,605,,5/4/2020,,14,,Europe,Jane Smith
+81,606,Product B,10/24/2021,30,27,810,Europe,Jane Smith
+95,607,Product A,3/10/2021,20,70,1400,Australia,John Doe
+39,608,,3/14/2022,,37,,,John Doe
+69,609,Product B,,30,94,2820,,Jane Smith
+70,610,,7/27/2020,,26,,Europe,Jane Smith
+10,611,Product C,12/13/2021,40,5,200,Asia,Mike Johnson
+38,612,Product C,5/7/2021,40,37,1480,Australia,John Doe
+8,613,Product B,3/23/2020,30,94,2820,Asia,Mike Johnson
+51,614,Product B,9/28/2020,30,36,1080,North America,Jane Smith
+35,615,Product B,12/9/2020,30,84,2520,,John Doe
+30,616,Product C,7/21/2020,40,54,2160,,Jane Smith
+25,617,Product B,,30,42,1260,Europe,Mike Johnson
+33,618,Product A,9/25/2021,20,1,,,John Doe
+27,619,Product C,,40,18,720,Australia,John Doe
+1,620,Product B,,30,21,630,Australia,Mike Johnson
+34,621,Product B,7/22/2021,30,88,2640,Asia,John Doe
+40,622,Product C,11/25/2021,40,7,280,Europe,Mike Johnson
+87,623,Product C,3/17/2022,40,39,1560,Australia,John Doe
+18,624,Product A,9/13/2022,20,10,200,Asia,Jane Smith
+39,625,Product C,,40,11,440,North America,Jane Smith
+70,626,Product A,,20,70,1400,North America,John Doe
+62,627,Product B,11/3/2021,30,8,240,Europe,
+19,628,Product C,,40,8,320,Australia,John Doe
+90,629,,,,74,,,Jane Smith
+96,630,Product A,4/27/2020,20,11,220,Australia,Mike Johnson
+45,631,Product B,7/6/2021,30,17,510,Australia,Mike Johnson
+18,632,Product A,5/15/2021,20,90,1800,Asia,Mike Johnson
+60,633,Product B,11/30/2022,30,19,570,Asia,Mike Johnson
+75,634,Product A,,20,98,1960,North America,John Doe
+93,635,Product C,8/29/2022,40,49,1960,Asia,Jane Smith
+99,636,Product A,8/19/2021,20,11,220,Australia,John Doe
+3,637,Product B,6/18/2020,30,81,2430,Australia,Mike Johnson
+22,638,Product A,,20,96,1920,Asia,Jane Smith
+48,639,Product C,3/8/2020,40,83,3320,North America,Jane Smith
+53,640,Product A,3/29/2022,20,52,1040,Australia,Mike Johnson
+0,641,Product B,5/2/2021,30,88,2640,Australia,Mike Johnson
+29,642,Product C,1/16/2020,40,25,1000,Asia,Jane Smith
+32,643,Product A,12/9/2020,20,71,1420,North America,Mike Johnson
+43,644,Product B,11/6/2020,30,83,2490,North America,Mike Johnson
+47,645,Product A,6/29/2022,20,87,,Australia,Mike Johnson
+20,646,Product A,9/21/2021,20,4,80,Europe,Jane Smith
+63,647,Product C,,40,41,1640,Australia,Mike Johnson
+45,648,Product A,9/5/2021,20,27,540,,Mike Johnson
+65,649,Product A,3/3/2020,20,29,580,Asia,Mike Johnson
+51,650,Product B,,30,,,North America,Jane Smith
+53,651,Product A,6/21/2021,20,37,740,,Mike Johnson
+98,652,Product B,6/15/2021,30,42,1260,North America,John Doe
+78,653,Product A,,20,20,400,North America,Jane Smith
+22,654,Product C,,40,74,2960,North America,Mike Johnson
+93,655,Product C,9/18/2021,40,89,3560,Asia,John Doe
+21,656,,8/2/2021,,52,,Europe,
+0,657,Product A,,20,48,960,Australia,Mike Johnson
+71,658,Product B,4/24/2020,30,36,1080,North America,John Doe
+33,659,Product B,12/26/2022,30,66,1980,,Jane Smith
+77,660,Product A,,20,62,1240,Australia,Jane Smith
+6,661,Product B,12/29/2020,30,22,660,Asia,John Doe
+45,662,Product C,,40,85,3400,Australia,Mike Johnson
+95,663,Product A,9/28/2022,20,42,840,Asia,Jane Smith
+0,664,Product C,11/23/2022,40,80,3200,Asia,Mike Johnson
+77,665,Product A,,20,18,360,Europe,Mike Johnson
+87,666,Product A,7/14/2020,20,90,1800,Australia,Jane Smith
+100,667,Product A,,20,90,1800,Australia,Jane Smith
+19,668,Product A,10/27/2020,20,91,1820,,John Doe
+13,669,Product A,10/11/2022,20,60,1200,Europe,Jane Smith
+69,670,Product C,9/13/2021,40,19,760,Australia,John Doe
+75,671,Product C,12/17/2021,40,89,3560,Asia,Jane Smith
+50,672,Product A,2/1/2020,20,30,600,North America,John Doe
+81,673,Product A,11/26/2022,20,37,740,North America,Jane Smith
+21,674,Product A,9/20/2021,20,27,,Europe,Jane Smith
+61,675,Product C,,40,51,2040,Australia,Jane Smith
+49,676,Product C,10/4/2022,40,95,3800,Australia,Jane Smith
+76,677,Product C,9/7/2021,40,27,1080,Australia,Mike Johnson
+8,678,Product C,4/22/2021,40,37,1480,Europe,John Doe
+38,679,Product B,,30,85,2550,Europe,Jane Smith
+2,680,Product C,3/25/2020,40,2,80,Europe,John Doe
+80,681,Product C,,40,70,2800,Asia,John Doe
+82,682,Product B,1/18/2021,30,77,2310,North America,John Doe
+25,683,Product C,12/13/2021,40,18,720,,Jane Smith
+28,684,Product C,,40,89,3560,Australia,Mike Johnson
+69,685,Product C,5/5/2020,40,10,400,Europe,Jane Smith
+99,686,Product A,,20,24,480,Europe,Mike Johnson
+3,687,Product C,7/26/2020,40,23,920,North America,John Doe
+6,688,Product C,7/4/2021,40,18,720,North America,Jane Smith
+48,689,,4/2/2022,,30,,Asia,Jane Smith
+51,690,Product B,11/15/2020,30,75,2250,Australia,Mike Johnson
+89,691,Product B,2/21/2020,30,56,1680,North America,Mike Johnson
+30,692,Product C,1/7/2022,40,13,520,Asia,Jane Smith
+82,693,Product B,9/5/2020,30,99,2970,North America,Jane Smith
+70,694,Product A,,20,3,60,Australia,Jane Smith
+35,695,Product A,5/4/2021,20,95,1900,Asia,Jane Smith
+89,696,Product A,,20,62,1240,North America,Jane Smith
+59,697,Product B,3/21/2020,30,64,1920,Asia,Jane Smith
+18,698,,9/16/2022,,23,,Europe,Jane Smith
+38,699,Product B,5/13/2021,30,74,2220,Europe,Jane Smith
+71,700,Product C,,40,84,3360,Asia,Jane Smith
+47,701,Product A,10/14/2020,20,3,,Europe,Jane Smith
+13,702,Product B,1/5/2020,30,76,2280,,Mike Johnson
+47,703,Product B,1/13/2022,30,98,2940,Asia,John Doe
+41,704,Product A,11/20/2020,20,63,1260,North America,Jane Smith
+69,705,Product B,7/19/2021,30,39,1170,Australia,Jane Smith
+86,706,Product B,11/5/2022,30,80,2400,Europe,Mike Johnson
+6,707,Product B,8/3/2020,30,35,1050,Asia,Mike Johnson
+75,708,Product C,7/23/2022,40,79,3160,,John Doe
+44,709,Product A,2/12/2022,20,73,1460,Asia,Mike Johnson
+76,710,Product C,2/24/2020,40,21,840,Asia,Jane Smith
+1,711,Product B,9/25/2020,30,45,1350,,John Doe
+33,712,Product C,5/2/2022,40,34,1360,North America,John Doe
+77,713,Product B,9/18/2021,30,10,300,Asia,John Doe
+94,714,Product C,,40,98,3920,North America,Jane Smith
+32,715,Product B,1/17/2020,30,71,2130,Asia,
+4,716,Product B,8/17/2020,30,52,1560,,Jane Smith
+11,717,Product C,12/24/2022,40,30,1200,North America,John Doe
+85,718,Product B,4/26/2020,30,36,1080,North America,Jane Smith
+47,719,Product C,4/25/2020,40,14,,Europe,Jane Smith
+21,720,Product A,,20,95,1900,North America,John Doe
+71,721,Product A,1/23/2020,20,18,360,Australia,Mike Johnson
+51,722,Product C,3/4/2021,40,31,1240,Asia,John Doe
+42,723,Product C,,40,65,2600,Europe,Mike Johnson
+89,724,Product A,4/28/2020,20,8,160,Europe,John Doe
+39,725,Product B,,30,64,1920,Australia,Mike Johnson
+92,726,Product C,10/28/2021,40,59,2360,Europe,John Doe
+96,727,Product C,9/1/2021,40,17,680,Europe,John Doe
+58,728,Product A,,20,64,1280,North America,Mike Johnson
+6,729,Product B,6/15/2022,30,81,2430,North America,John Doe
+78,730,Product B,10/10/2021,30,43,1290,,Jane Smith
+50,731,,1/19/2021,,14,,Asia,John Doe
+35,732,Product C,,40,69,2760,Asia,Mike Johnson
+38,733,Product C,10/12/2022,40,80,3200,North America,Mike Johnson
+86,734,Product C,6/22/2021,40,89,3560,Asia,Mike Johnson
+94,735,Product B,10/5/2022,30,21,630,Europe,Jane Smith
+77,736,Product B,10/22/2022,30,52,1560,,Jane Smith
+15,737,Product B,,30,61,1830,Europe,Jane Smith
+95,738,Product A,10/31/2020,20,68,1360,Europe,John Doe
+15,739,Product A,1/24/2020,20,88,,North America,Mike Johnson
+75,740,Product C,7/31/2021,40,29,1160,Europe,Jane Smith
+38,741,Product C,9/29/2021,40,56,2240,Australia,Jane Smith
+81,742,Product C,11/25/2020,40,67,2680,Europe,Jane Smith
+75,743,Product A,3/26/2020,20,85,1700,Australia,Jane Smith
+25,744,Product A,8/27/2020,20,39,780,Europe,Jane Smith
+58,745,Product B,5/4/2022,30,85,2550,North America,Jane Smith
+32,746,Product A,11/20/2022,20,3,60,Asia,Mike Johnson
+50,747,Product B,10/16/2020,30,80,2400,,John Doe
+67,748,Product A,2/18/2022,20,50,1000,,John Doe
+84,749,Product B,,30,96,2880,Europe,Mike Johnson
+59,750,Product C,5/3/2021,40,64,2560,North America,Jane Smith
+42,751,Product B,,30,77,,,John Doe
+32,752,Product A,8/19/2021,20,65,1300,North America,Jane Smith
+58,753,Product A,8/29/2020,20,16,320,Europe,Jane Smith
+89,754,Product A,2/7/2021,20,75,1500,Asia,Jane Smith
+97,755,Product B,,30,,,Europe,Mike Johnson
+7,756,,3/9/2021,,26,,,John Doe
+95,757,Product B,8/21/2020,30,73,2190,Europe,Jane Smith
+72,758,Product C,,40,50,2000,Europe,Jane Smith
+22,759,Product C,5/21/2020,40,28,1120,,Mike Johnson
+81,760,Product A,9/30/2020,20,87,1740,North America,John Doe
+28,761,Product B,,30,29,870,Asia,Jane Smith
+13,762,,3/5/2020,,58,,,John Doe
+28,763,Product B,,30,17,510,Asia,Mike Johnson
+56,764,Product C,,40,73,2920,Europe,Mike Johnson
+68,765,Product C,1/17/2022,40,90,3600,Europe,John Doe
+83,766,Product A,5/9/2022,20,94,1880,Asia,Jane Smith
+73,767,Product C,6/1/2020,40,86,,North America,Jane Smith
+80,768,Product A,11/5/2021,20,1,20,Asia,John Doe
+94,769,Product B,5/13/2022,30,62,1860,Europe,Jane Smith
+95,770,Product B,5/31/2022,30,26,780,Australia,Jane Smith
+37,771,Product A,6/21/2022,20,65,1300,Australia,Mike Johnson
+96,772,Product A,8/26/2022,20,80,1600,Australia,
+19,773,Product B,9/20/2021,30,4,120,Australia,John Doe
+16,774,Product A,12/16/2022,20,22,440,Australia,Mike Johnson
+70,775,Product C,4/13/2021,40,12,480,North America,Mike Johnson
+46,776,Product C,,40,8,320,Asia,Mike Johnson
+70,777,Product A,8/23/2021,20,75,1500,Australia,Mike Johnson
+74,778,Product A,,20,94,1880,Asia,Jane Smith
+49,779,Product C,3/25/2020,40,43,1720,Australia,John Doe
+40,780,Product C,,40,79,3160,Europe,Jane Smith
+20,781,Product C,3/17/2022,40,49,1960,North America,John Doe
+75,782,Product C,,40,12,480,North America,John Doe
+46,783,Product C,8/7/2022,40,25,1000,Asia,Mike Johnson
+84,784,Product A,8/4/2022,20,84,1680,Australia,Mike Johnson
+74,785,,4/1/2022,,69,,,John Doe
+85,786,Product B,11/20/2020,30,43,1290,Europe,Jane Smith
+23,787,Product A,,20,89,1780,Australia,John Doe
+50,788,Product A,7/27/2022,20,27,540,Europe,John Doe
+100,789,,1/19/2022,,24,,Europe,Jane Smith
+18,790,Product B,,30,39,1170,,John Doe
+73,791,Product C,2/2/2022,40,55,2200,Europe,John Doe
+45,792,Product B,7/23/2020,30,55,1650,Europe,Jane Smith
+6,793,Product A,,20,16,320,Australia,Mike Johnson
+62,794,,,,49,,,Jane Smith
+54,795,Product C,,40,48,1920,Australia,Mike Johnson
+38,796,Product C,2/26/2020,40,63,2520,Asia,Mike Johnson
+84,797,Product C,,40,95,3800,Europe,Mike Johnson
+33,798,Product C,11/6/2022,40,14,560,,Mike Johnson
+81,799,Product B,10/18/2022,30,87,2610,Europe,Mike Johnson
+86,800,Product C,,40,26,1040,,Mike Johnson
+1,801,Product C,11/30/2020,40,93,3720,North America,Jane Smith
+37,802,Product C,4/21/2021,40,55,2200,Europe,Jane Smith
+6,803,Product C,5/14/2020,40,36,1440,,Jane Smith
+13,804,Product A,3/6/2020,20,89,1780,,Jane Smith
+64,805,Product B,4/7/2021,30,13,390,Asia,John Doe
+34,806,Product B,,30,17,510,North America,Jane Smith
+61,807,Product B,3/18/2020,30,69,2070,,Jane Smith
+18,808,Product A,7/17/2022,20,,,Europe,Mike Johnson
+21,809,Product C,,40,38,1520,Asia,Jane Smith
+92,810,Product B,11/13/2022,30,64,1920,Asia,Jane Smith
+39,811,Product A,4/29/2020,20,47,940,North America,John Doe
+4,812,Product A,8/26/2022,20,90,1800,Europe,Jane Smith
+54,813,Product B,,30,75,2250,North America,Jane Smith
+94,814,Product B,,30,39,1170,Australia,Mike Johnson
+60,815,Product C,7/6/2020,40,93,3720,Australia,Mike Johnson
+51,816,Product B,,30,45,1350,Asia,John Doe
+0,817,,,,97,,Asia,Mike Johnson
+20,818,Product B,8/7/2021,30,43,1290,Asia,Mike Johnson
+63,819,Product A,5/1/2020,20,36,720,North America,Mike Johnson
+84,820,Product C,9/22/2021,40,61,2440,North America,John Doe
+43,821,Product A,,20,70,1400,Asia,Jane Smith
+31,822,Product A,5/25/2022,20,37,740,Asia,Mike Johnson
+90,823,Product B,3/24/2022,30,45,1350,North America,John Doe
+33,824,Product B,4/10/2020,30,86,2580,North America,Mike Johnson
+30,825,,4/5/2022,,70,,Australia,John Doe
+2,826,Product C,,40,37,1480,North America,John Doe
+48,827,Product B,,30,15,450,North America,
+7,828,Product C,,40,53,,Australia,John Doe
+66,829,,3/28/2022,,,,North America,John Doe
+48,830,Product C,12/2/2020,40,43,1720,Asia,Jane Smith
+88,831,Product B,,30,32,960,Europe,Jane Smith
+85,832,Product A,,20,57,1140,Europe,Mike Johnson
+10,833,Product C,10/30/2020,40,68,2720,Europe,John Doe
+68,834,Product C,,40,67,2680,Australia,Mike Johnson
+63,835,Product A,1/2/2021,20,94,1880,Europe,John Doe
+41,836,Product B,6/24/2020,30,58,1740,Europe,Jane Smith
+12,837,Product B,8/12/2022,30,98,2940,North America,Mike Johnson
+52,838,Product C,12/6/2020,40,55,2200,Europe,Mike Johnson
+71,839,Product A,10/2/2021,20,99,1980,Asia,Mike Johnson
+29,840,Product C,9/6/2020,40,89,3560,Australia,John Doe
+90,841,Product B,2/20/2020,30,18,540,North America,John Doe
+26,842,Product A,12/14/2020,20,71,1420,,Jane Smith
+26,843,Product A,,20,45,900,Asia,Mike Johnson
+56,844,Product B,1/16/2020,30,99,2970,Europe,John Doe
+24,845,Product A,12/9/2020,20,51,1020,Asia,John Doe
+12,846,Product B,1/18/2020,30,2,60,,Mike Johnson
+43,847,Product B,12/27/2020,30,27,810,North America,Mike Johnson
+79,848,,6/12/2022,,54,,North America,Jane Smith
+16,849,Product C,10/11/2022,40,7,280,Europe,Mike Johnson
+32,850,Product C,1/7/2020,40,19,760,Australia,Jane Smith
+22,851,Product A,,20,69,1380,Australia,Mike Johnson
+59,852,Product A,1/14/2022,20,3,60,North America,Mike Johnson
+1,853,Product A,,20,55,1100,Australia,Jane Smith
+13,854,Product C,11/8/2021,40,2,80,,John Doe
+55,855,Product A,3/17/2022,20,69,1380,North America,John Doe
+49,856,Product A,6/24/2020,20,28,560,Asia,Jane Smith
+80,857,Product C,,40,38,1520,Europe,Mike Johnson
+32,858,Product C,3/8/2022,40,56,2240,North America,John Doe
+0,859,Product B,5/10/2022,30,39,1170,Australia,John Doe
+95,860,,3/31/2022,,33,,Asia,Mike Johnson
+48,861,Product B,9/7/2021,30,12,,Europe,John Doe
+14,862,Product A,8/12/2020,20,49,980,Australia,Jane Smith
+57,863,Product B,11/7/2021,30,38,1140,Asia,Jane Smith
+4,864,Product A,,20,60,1200,,Jane Smith
+74,865,Product B,5/9/2022,30,16,480,North America,Mike Johnson
+7,866,Product B,1/7/2022,30,24,720,Asia,Jane Smith
+28,867,Product C,5/30/2021,40,62,2480,Europe,John Doe
+95,868,Product A,7/27/2021,20,90,1800,Asia,Jane Smith
+39,869,Product B,7/17/2022,30,56,1680,Europe,John Doe
+87,870,Product B,4/17/2022,30,88,2640,Australia,John Doe
+29,871,Product A,4/9/2021,20,,,Asia,John Doe
+77,872,Product A,11/24/2020,20,65,1300,Australia,John Doe
+84,873,Product C,3/30/2020,40,71,2840,,John Doe
+74,874,Product C,4/18/2022,40,83,3320,North America,Jane Smith
+75,875,Product B,9/25/2021,30,41,1230,Australia,John Doe
+35,876,Product B,,30,62,1860,,John Doe
+45,877,,1/25/2021,,46,,Australia,John Doe
+63,878,Product A,9/30/2021,20,54,1080,North America,John Doe
+7,879,Product B,,30,26,780,Asia,
+36,880,Product B,,30,8,,,Mike Johnson
+44,881,Product C,,40,79,3160,Australia,Mike Johnson
+94,882,Product B,,30,40,1200,,Mike Johnson
+41,883,Product C,7/30/2020,40,65,2600,Asia,Mike Johnson
+84,884,Product C,11/23/2020,40,89,3560,Australia,John Doe
+18,885,Product A,11/11/2021,20,23,460,Asia,Jane Smith
+71,886,Product C,,40,74,2960,Asia,Jane Smith
+68,887,Product B,9/3/2020,30,61,1830,North America,John Doe
+87,888,Product B,11/12/2020,30,40,1200,,John Doe
+22,889,Product B,4/23/2021,30,42,1260,Europe,Jane Smith
+89,890,Product A,9/17/2022,20,13,260,Australia,John Doe
+51,891,Product B,4/1/2021,30,65,1950,Australia,Jane Smith
+32,892,Product B,3/26/2021,30,17,510,Europe,John Doe
+86,893,Product C,8/12/2022,40,77,3080,Australia,Jane Smith
+40,894,,,,34,,,Jane Smith
+45,895,Product B,2/19/2021,30,10,,North America,Jane Smith
+30,896,Product C,4/18/2022,40,61,,,Jane Smith
+84,897,Product C,,40,94,3760,North America,John Doe
+2,898,Product A,2/20/2021,20,50,1000,North America,John Doe
+44,899,Product B,5/13/2021,30,89,2670,Asia,Jane Smith
+46,900,,,,37,,Australia,Jane Smith
+53,901,Product C,2/3/2021,40,85,3400,North America,John Doe
+95,902,Product A,11/7/2021,20,73,,North America,Jane Smith
+47,903,Product B,12/15/2021,30,25,750,,Jane Smith
+87,904,Product A,5/27/2021,20,79,1580,,Mike Johnson
+60,905,Product C,11/18/2022,40,39,,Europe,Jane Smith
+88,906,Product B,11/18/2020,30,17,510,Australia,John Doe
+20,907,Product A,3/25/2020,20,38,760,Australia,Mike Johnson
+76,908,Product B,2/19/2020,30,37,1110,Europe,Jane Smith
+79,909,Product A,,20,56,1120,,Jane Smith
+35,910,Product B,,30,16,480,Australia,John Doe
+98,911,Product B,,30,80,2400,Asia,John Doe
+0,912,Product B,2/1/2020,30,71,2130,Asia,Jane Smith
+66,913,Product A,5/17/2022,20,71,1420,Asia,Mike Johnson
+34,914,Product B,11/11/2022,30,24,720,North America,Mike Johnson
+33,915,,5/29/2021,,93,,North America,John Doe
+90,916,Product B,4/18/2020,30,69,2070,Australia,Mike Johnson
+81,917,Product B,,30,59,1770,North America,John Doe
+49,918,Product C,5/10/2022,40,58,,Asia,Mike Johnson
+95,919,Product A,2/19/2021,20,41,820,Europe,Jane Smith
+67,920,Product B,,30,4,120,Australia,Jane Smith
+6,921,Product A,7/14/2020,20,70,1400,Europe,John Doe
+39,922,Product C,7/11/2020,40,100,4000,Europe,Jane Smith
+29,923,,7/28/2021,,92,,Asia,Mike Johnson
+23,924,Product A,,20,3,60,Europe,John Doe
+73,925,Product C,7/15/2020,40,59,2360,Asia,John Doe
+25,926,Product C,11/30/2020,40,20,800,Asia,Jane Smith
+71,927,Product C,6/21/2020,40,10,400,North America,John Doe
+60,928,Product B,,30,71,2130,Australia,Jane Smith
+35,929,Product B,,30,22,660,Australia,Jane Smith
+87,930,Product B,5/31/2022,30,63,1890,Australia,Jane Smith
+27,931,Product A,1/6/2022,20,43,860,North America,John Doe
+77,932,Product A,,20,85,1700,,Jane Smith
+81,933,Product A,,20,69,1380,,John Doe
+10,934,Product A,6/26/2022,20,49,980,,Jane Smith
+15,935,Product B,1/20/2020,30,11,330,Australia,John Doe
+62,936,Product B,6/27/2020,30,30,900,Europe,John Doe
+12,937,Product B,10/29/2020,30,45,1350,Europe,Jane Smith
+67,938,Product A,12/19/2022,20,63,1260,Europe,John Doe
+54,939,Product B,5/1/2021,30,43,1290,,John Doe
+62,940,Product C,8/1/2022,40,22,880,Europe,John Doe
+21,941,Product B,,30,60,1800,,Jane Smith
+9,942,Product C,7/10/2020,40,99,3960,Asia,Mike Johnson
+72,943,Product C,2/16/2021,40,37,1480,,John Doe
+94,944,Product C,4/29/2020,40,6,240,Europe,John Doe
+72,945,Product A,11/22/2021,20,72,1440,North America,Jane Smith
+8,946,Product A,2/15/2021,20,58,1160,,Jane Smith
+32,947,,,,31,,Europe,Mike Johnson
+96,948,Product B,12/2/2022,30,88,2640,North America,Jane Smith
+57,949,Product C,7/29/2022,40,61,2440,North America,Jane Smith
+32,950,Product A,12/5/2021,20,6,120,North America,John Doe
+87,951,Product C,,40,19,760,North America,Mike Johnson
+89,952,Product C,5/23/2022,40,77,3080,North America,John Doe
+76,953,Product A,12/17/2020,20,77,1540,North America,Mike Johnson
+61,954,Product B,5/26/2021,30,80,2400,Australia,
+22,955,Product B,7/2/2021,30,62,1860,,Jane Smith
+66,956,Product C,,40,54,2160,North America,John Doe
+42,957,,,,100,,Asia,Mike Johnson
+27,958,Product A,,20,7,140,Australia,John Doe
+48,959,Product B,,30,65,1950,Europe,Jane Smith
+33,960,Product B,3/12/2020,30,96,2880,North America,John Doe
+31,961,Product B,3/23/2020,30,68,2040,Asia,Jane Smith
+99,962,Product C,10/24/2021,40,63,2520,Australia,
+37,963,,9/8/2022,,12,,Europe,Mike Johnson
+38,964,Product B,,30,10,300,Asia,Jane Smith
+52,965,Product B,7/15/2020,30,21,630,Australia,Jane Smith
+91,966,,9/5/2022,,20,,Asia,Jane Smith
+45,967,Product A,6/22/2022,20,9,180,Asia,Jane Smith
+80,968,Product A,10/4/2020,20,94,1880,,Jane Smith
+32,969,Product A,7/9/2020,20,,,Europe,Jane Smith
+12,970,Product C,,40,60,2400,Europe,Jane Smith
+64,971,Product A,2/14/2020,20,24,480,,Mike Johnson
+50,972,Product A,6/4/2022,20,27,540,North America,Jane Smith
+71,973,Product B,1/28/2020,30,89,2670,Asia,Mike Johnson
+59,974,Product A,1/31/2021,20,,,Europe,Jane Smith
+30,975,Product C,1/22/2022,40,28,1120,Europe,John Doe
+87,976,,9/5/2022,,39,,Asia,Jane Smith
+100,977,Product C,3/19/2022,40,80,3200,Europe,Mike Johnson
+86,978,Product B,7/30/2022,30,96,2880,Asia,Mike Johnson
+62,979,Product A,5/8/2020,20,86,1720,Australia,John Doe
+6,980,Product A,2/24/2022,20,41,820,Asia,Jane Smith
+14,981,Product B,1/27/2020,30,93,2790,,Mike Johnson
+69,982,Product C,8/6/2021,40,66,2640,Asia,Mike Johnson
+81,983,Product A,2/3/2020,20,87,1740,Australia,Jane Smith
+98,984,Product A,,20,52,1040,Australia,Mike Johnson
+72,985,Product B,,30,58,1740,North America,John Doe
+29,986,Product C,,40,30,1200,,John Doe
+84,987,Product B,,30,100,,,Mike Johnson
+60,988,Product A,6/15/2021,20,64,1280,Australia,Mike Johnson
+67,989,Product C,7/28/2022,40,49,1960,Europe,Jane Smith
+26,990,Product B,,30,54,1620,North America,Jane Smith
+75,991,Product A,11/19/2021,20,47,940,Australia,Mike Johnson
+23,992,Product A,,20,,,Europe,John Doe
+98,993,Product A,4/4/2021,20,31,620,Asia,Jane Smith
+100,994,Product C,9/22/2021,40,45,1800,Asia,Mike Johnson
+43,995,Product A,7/26/2022,20,100,2000,North America,Mike Johnson
+30,996,Product B,,30,,,North America,John Doe
+83,997,Product A,7/22/2022,20,95,1900,North America,Jane Smith
+14,998,Product C,6/1/2022,40,60,2400,North America,Jane Smith
+6,999,Product A,10/14/2021,20,9,180,North America,John Doe
+77,1000,Product B,2/20/2021,30,86,2580,,John Doe
